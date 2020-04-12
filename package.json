@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/knoxd8256/albumApi/issues"
   },
-  "homepage": "https://github.com/knoxd8256/albumApi#readme"
+  "homepage": "https://github.com/knoxd8256/albumApi#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
