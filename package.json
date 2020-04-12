@@ -1,0 +1,27 @@
+{
+  "name": "knoxmusic",
+  "version": "1.0.0",
+  "description": "Music API to fetch and return albums from a Mongo Database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TODO: Test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knoxd8256/albumApi.git"
+  },
+  "keywords": [
+    "music",
+    "api",
+    "album",
+    "knox",
+    "node",
+    "mongo"
+  ],
+  "author": "David Knox",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/knoxd8256/albumApi/issues"
+  },
+  "homepage": "https://github.com/knoxd8256/albumApi#readme"
+}
